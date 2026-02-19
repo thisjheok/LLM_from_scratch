@@ -1,3 +1,5 @@
+# 토크나이저 encoding, decoding 구현, 어휘 사전에 없는 단어 처리 
+# chapter 2.4 까지
 import re
 # 훈련을 위해 토큰화할 파일을 열기
 with open("the-verdict.txt","r",encoding="utf-8") as f:
